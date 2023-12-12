@@ -1,0 +1,15 @@
+E:\emydev\ProjetosUri\1040_Média_3\bin\Debug\net7.0\1040_Média_3.exe
+E:\emydev\ProjetosUri\1040_Média_3\bin\Debug\net7.0\1040_Média_3.deps.json
+E:\emydev\ProjetosUri\1040_Média_3\bin\Debug\net7.0\1040_Média_3.runtimeconfig.json
+E:\emydev\ProjetosUri\1040_Média_3\bin\Debug\net7.0\1040_Média_3.dll
+E:\emydev\ProjetosUri\1040_Média_3\bin\Debug\net7.0\1040_Média_3.pdb
+E:\emydev\ProjetosUri\1040_Média_3\obj\Debug\net7.0\1040_Média_3.csproj.AssemblyReference.cache
+E:\emydev\ProjetosUri\1040_Média_3\obj\Debug\net7.0\1040_Média_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\emydev\ProjetosUri\1040_Média_3\obj\Debug\net7.0\1040_Média_3.AssemblyInfoInputs.cache
+E:\emydev\ProjetosUri\1040_Média_3\obj\Debug\net7.0\1040_Média_3.AssemblyInfo.cs
+E:\emydev\ProjetosUri\1040_Média_3\obj\Debug\net7.0\1040_Média_3.csproj.CoreCompileInputs.cache
+E:\emydev\ProjetosUri\1040_Média_3\obj\Debug\net7.0\1040_Média_3.dll
+E:\emydev\ProjetosUri\1040_Média_3\obj\Debug\net7.0\refint\1040_Média_3.dll
+E:\emydev\ProjetosUri\1040_Média_3\obj\Debug\net7.0\1040_Média_3.pdb
+E:\emydev\ProjetosUri\1040_Média_3\obj\Debug\net7.0\1040_Média_3.genruntimeconfig.cache
+E:\emydev\ProjetosUri\1040_Média_3\obj\Debug\net7.0\ref\1040_Média_3.dll

@@ -1,0 +1,15 @@
+D:\emydev\ProjetosUri\1036_FormulaDeBhaskara\bin\Debug\net7.0\1036_FormulaDeBhaskara.exe
+D:\emydev\ProjetosUri\1036_FormulaDeBhaskara\bin\Debug\net7.0\1036_FormulaDeBhaskara.deps.json
+D:\emydev\ProjetosUri\1036_FormulaDeBhaskara\bin\Debug\net7.0\1036_FormulaDeBhaskara.runtimeconfig.json
+D:\emydev\ProjetosUri\1036_FormulaDeBhaskara\bin\Debug\net7.0\1036_FormulaDeBhaskara.dll
+D:\emydev\ProjetosUri\1036_FormulaDeBhaskara\bin\Debug\net7.0\1036_FormulaDeBhaskara.pdb
+D:\emydev\ProjetosUri\1036_FormulaDeBhaskara\obj\Debug\net7.0\1036_FormulaDeBhaskara.csproj.AssemblyReference.cache
+D:\emydev\ProjetosUri\1036_FormulaDeBhaskara\obj\Debug\net7.0\1036_FormulaDeBhaskara.GeneratedMSBuildEditorConfig.editorconfig
+D:\emydev\ProjetosUri\1036_FormulaDeBhaskara\obj\Debug\net7.0\1036_FormulaDeBhaskara.AssemblyInfoInputs.cache
+D:\emydev\ProjetosUri\1036_FormulaDeBhaskara\obj\Debug\net7.0\1036_FormulaDeBhaskara.AssemblyInfo.cs
+D:\emydev\ProjetosUri\1036_FormulaDeBhaskara\obj\Debug\net7.0\1036_FormulaDeBhaskara.csproj.CoreCompileInputs.cache
+D:\emydev\ProjetosUri\1036_FormulaDeBhaskara\obj\Debug\net7.0\1036_FormulaDeBhaskara.dll
+D:\emydev\ProjetosUri\1036_FormulaDeBhaskara\obj\Debug\net7.0\refint\1036_FormulaDeBhaskara.dll
+D:\emydev\ProjetosUri\1036_FormulaDeBhaskara\obj\Debug\net7.0\1036_FormulaDeBhaskara.pdb
+D:\emydev\ProjetosUri\1036_FormulaDeBhaskara\obj\Debug\net7.0\1036_FormulaDeBhaskara.genruntimeconfig.cache
+D:\emydev\ProjetosUri\1036_FormulaDeBhaskara\obj\Debug\net7.0\ref\1036_FormulaDeBhaskara.dll

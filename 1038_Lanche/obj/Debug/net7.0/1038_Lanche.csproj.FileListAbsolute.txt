@@ -1,0 +1,15 @@
+E:\emydev\ProjetosUri\1038_Lanche\bin\Debug\net7.0\1038_Lanche.exe
+E:\emydev\ProjetosUri\1038_Lanche\bin\Debug\net7.0\1038_Lanche.deps.json
+E:\emydev\ProjetosUri\1038_Lanche\bin\Debug\net7.0\1038_Lanche.runtimeconfig.json
+E:\emydev\ProjetosUri\1038_Lanche\bin\Debug\net7.0\1038_Lanche.dll
+E:\emydev\ProjetosUri\1038_Lanche\bin\Debug\net7.0\1038_Lanche.pdb
+E:\emydev\ProjetosUri\1038_Lanche\obj\Debug\net7.0\1038_Lanche.csproj.AssemblyReference.cache
+E:\emydev\ProjetosUri\1038_Lanche\obj\Debug\net7.0\1038_Lanche.GeneratedMSBuildEditorConfig.editorconfig
+E:\emydev\ProjetosUri\1038_Lanche\obj\Debug\net7.0\1038_Lanche.AssemblyInfoInputs.cache
+E:\emydev\ProjetosUri\1038_Lanche\obj\Debug\net7.0\1038_Lanche.AssemblyInfo.cs
+E:\emydev\ProjetosUri\1038_Lanche\obj\Debug\net7.0\1038_Lanche.csproj.CoreCompileInputs.cache
+E:\emydev\ProjetosUri\1038_Lanche\obj\Debug\net7.0\1038_Lanche.dll
+E:\emydev\ProjetosUri\1038_Lanche\obj\Debug\net7.0\refint\1038_Lanche.dll
+E:\emydev\ProjetosUri\1038_Lanche\obj\Debug\net7.0\1038_Lanche.pdb
+E:\emydev\ProjetosUri\1038_Lanche\obj\Debug\net7.0\1038_Lanche.genruntimeconfig.cache
+E:\emydev\ProjetosUri\1038_Lanche\obj\Debug\net7.0\ref\1038_Lanche.dll

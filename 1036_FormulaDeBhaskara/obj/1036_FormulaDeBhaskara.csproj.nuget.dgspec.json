@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\emydev\\ProjetosUri\\1036_FormulaDeBhaskara\\1036_FormulaDeBhaskara.csproj": {}
+  },
+  "projects": {
+    "D:\\emydev\\ProjetosUri\\1036_FormulaDeBhaskara\\1036_FormulaDeBhaskara.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\emydev\\ProjetosUri\\1036_FormulaDeBhaskara\\1036_FormulaDeBhaskara.csproj",
+        "projectName": "1036_FormulaDeBhaskara",
+        "projectPath": "D:\\emydev\\ProjetosUri\\1036_FormulaDeBhaskara\\1036_FormulaDeBhaskara.csproj",
+        "packagesPath": "C:\\Users\\Emilly\\.nuget\\packages\\",
+        "outputPath": "D:\\emydev\\ProjetosUri\\1036_FormulaDeBhaskara\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emilly\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

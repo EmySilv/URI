@@ -1,0 +1,16 @@
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\bin\Debug\net5.0\1002_Área_do_Circulo.exe
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\bin\Debug\net5.0\1002_Área_do_Circulo.deps.json
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\bin\Debug\net5.0\1002_Área_do_Circulo.runtimeconfig.json
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\bin\Debug\net5.0\1002_Área_do_Circulo.runtimeconfig.dev.json
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\bin\Debug\net5.0\1002_Área_do_Circulo.dll
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\bin\Debug\net5.0\1002_Área_do_Circulo.pdb
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\obj\Debug\net5.0\1002_Área_do_Circulo.csproj.AssemblyReference.cache
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\obj\Debug\net5.0\1002_Área_do_Circulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\obj\Debug\net5.0\1002_Área_do_Circulo.AssemblyInfoInputs.cache
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\obj\Debug\net5.0\1002_Área_do_Circulo.AssemblyInfo.cs
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\obj\Debug\net5.0\1002_Área_do_Circulo.csproj.CoreCompileInputs.cache
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\obj\Debug\net5.0\1002_Área_do_Circulo.dll
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\obj\Debug\net5.0\refint\1002_Área_do_Circulo.dll
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\obj\Debug\net5.0\1002_Área_do_Circulo.pdb
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\obj\Debug\net5.0\1002_Área_do_Circulo.genruntimeconfig.cache
+D:\emydev\ProjetosUri\1002_Área_do_Circulo\obj\Debug\net5.0\ref\1002_Área_do_Circulo.dll

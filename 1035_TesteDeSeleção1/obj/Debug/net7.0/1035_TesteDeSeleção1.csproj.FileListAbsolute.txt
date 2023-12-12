@@ -1,0 +1,15 @@
+D:\emydev\1035_TesteDeSeleção1\bin\Debug\net7.0\1035_TesteDeSeleção1.exe
+D:\emydev\1035_TesteDeSeleção1\bin\Debug\net7.0\1035_TesteDeSeleção1.deps.json
+D:\emydev\1035_TesteDeSeleção1\bin\Debug\net7.0\1035_TesteDeSeleção1.runtimeconfig.json
+D:\emydev\1035_TesteDeSeleção1\bin\Debug\net7.0\1035_TesteDeSeleção1.dll
+D:\emydev\1035_TesteDeSeleção1\bin\Debug\net7.0\1035_TesteDeSeleção1.pdb
+D:\emydev\1035_TesteDeSeleção1\obj\Debug\net7.0\1035_TesteDeSeleção1.csproj.AssemblyReference.cache
+D:\emydev\1035_TesteDeSeleção1\obj\Debug\net7.0\1035_TesteDeSeleção1.GeneratedMSBuildEditorConfig.editorconfig
+D:\emydev\1035_TesteDeSeleção1\obj\Debug\net7.0\1035_TesteDeSeleção1.AssemblyInfoInputs.cache
+D:\emydev\1035_TesteDeSeleção1\obj\Debug\net7.0\1035_TesteDeSeleção1.AssemblyInfo.cs
+D:\emydev\1035_TesteDeSeleção1\obj\Debug\net7.0\1035_TesteDeSeleção1.csproj.CoreCompileInputs.cache
+D:\emydev\1035_TesteDeSeleção1\obj\Debug\net7.0\1035_TesteDeSeleção1.dll
+D:\emydev\1035_TesteDeSeleção1\obj\Debug\net7.0\refint\1035_TesteDeSeleção1.dll
+D:\emydev\1035_TesteDeSeleção1\obj\Debug\net7.0\1035_TesteDeSeleção1.pdb
+D:\emydev\1035_TesteDeSeleção1\obj\Debug\net7.0\1035_TesteDeSeleção1.genruntimeconfig.cache
+D:\emydev\1035_TesteDeSeleção1\obj\Debug\net7.0\ref\1035_TesteDeSeleção1.dll
